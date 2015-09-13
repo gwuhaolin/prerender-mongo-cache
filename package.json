@@ -1,0 +1,19 @@
+{
+  "name": "prerender-mongo-cache",
+  "version": "1.0.0",
+  "description": "mongodb cache plugin for prerender.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "mongodb",
+    "cache",
+    "prerender"
+  ],
+  "author": "WuHaolin",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.1.6"
+  }
+}
